@@ -1,6 +1,6 @@
 /*
  * ftrace (Function trace) local execution tracing 
- * <Ryan.Oneill@LeviathanSecurity.com>
+ * <499055602@qq.com>
  */
 
 #include <stdio.h>
